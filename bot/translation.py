@@ -8,7 +8,7 @@ class Translation(object):
 <i>Am Just A Advance Auto Filter Bot....😉
 Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🌚🎀
 For More Details Click Help Button Below..
-@LXRYOUTUBERYT
+@cinemaclubcc
 </i>"""        
     
     HELP_TEXT = """
@@ -41,7 +41,7 @@ For More Details Click Help Button Below..
             
             -> <code>Status</code> - <b>Button Will Shows The Stats Of Your Channel</b>
             
-<b><a href="https://t.me/LXRBOTSGROUP">© LXR YOUTUBER</a></b>
+<b><a href="https://t.me/cinemaclubchannel2ll">© LXR YOUTUBER</a></b>
 """
     
     ABOUT_TEXT = """<b>➥ 📃Name</b> : <b>Pro Auto Filter Bot</b>
